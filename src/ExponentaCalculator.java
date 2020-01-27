@@ -1,6 +1,6 @@
-public class SinusCalculator {
+public class ExponentaCalculator {
 
-    public double calculateSinusWithForLoop(int x, int addendNumber) {
+    public double calculateWithForLoop(int x, int addendNumber) {
 /* int x - степень
 int addendNumber - количество слагаемых
  */
